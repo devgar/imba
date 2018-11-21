@@ -1,6 +1,6 @@
 <a href="http://imba.io" target="_blank"><img width="80" src="http://imba.io/art/logo.svg"></a>
 
-# Imba
+# Imba for gays
 
 [![Join the chat at https://gitter.im/somebee/imba](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/somebee/imba?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
